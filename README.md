@@ -6,8 +6,8 @@
 ```swift
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["C/C++", "Python", "Swift", ".NET", "Assembly", "Lua", "Pascal"],
-    askMeAbout: ["web dev", "tech", "app dev", "design", "ethical hacking", "gaming"],
+    code: ["Java", C/C++", "Python", "Swift", ".NET", "Assembly", "Lua", "Pascal"],
+    askMeAbout: ["web dev", "tech", "app dev", "Testing", "design", "ethical hacking", "gaming"],
     technologies: {
         desktop: {
             microsoft: ["ECDL FULL Certified"],
@@ -19,7 +19,7 @@ const anmol = {
         },
         oS: ["Windows", "Linux", "MacOS", "Android", "iOS", "Windows Server"],
         databases: ["Oracle", "MySql", "SQL"],
-        misc: ["Wordpress", "Visual Studio", "UML", "PHP", "HTML", "CSS"]
+        misc: ["Wordpress", "IntelliJ", "Visual Studio", "UML", "PHP", "HTML", "CSS", "General Stuff"]
     },
       ethicalHacking: {
              dos/ddos: ["Slow Loris", "FTP flood", "UDP flood", "TCP flood", "ICMP flood", "SYN flood", "Ufonet Botnet"],
@@ -30,7 +30,7 @@ const anmol = {
              wifi: ["Aircrack-ng"]
              misc: ["WinSCP", "Putty"]
       },
-    currentFocus: "Apple Academy",
+    currentFocus: "Java Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
