@@ -6,7 +6,7 @@
 ```swift
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Java", C/C++", "Python", "Swift", ".NET", "Assembly", "Lua", "Pascal"],
+    code: ["Java", "C/C++", "Python", "Swift", ".NET", "Assembly", "Lua", "Pascal"],
     askMeAbout: ["web dev", "tech", "app dev", "Testing", "design", "ethical hacking", "gaming"],
     technologies: {
         desktop: {
