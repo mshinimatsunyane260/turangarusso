@@ -37,7 +37,7 @@ const anmol = {
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;Graduated at Apple Developer Academy and University Federico II as Software Engineer.\
-⚓ &nbsp;I'm currently working for MSC Cruises ⚓ as Software Engineer.\
+⚓ &nbsp;I'm currently working for Ntt-Data 🎌 as Software Engineer.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
